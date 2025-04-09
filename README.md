@@ -56,4 +56,7 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon416&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwon416&layout=compact" style="display: inline-block" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kwon416" style="display: inline-block" />
+</div>
